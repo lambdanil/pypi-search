@@ -6,3 +6,5 @@ simple pypi search utility
 ```
 pypi-search <something>
 ```
+
+Only shows first few results (page 1 of pypi.org)
